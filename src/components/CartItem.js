@@ -1,4 +1,3 @@
-// CartItem.js
 import React from 'react';
 import { connect } from 'react-redux';
 import { incrementItem, decrementItem, removeItem } from './actions';
