@@ -1,4 +1,3 @@
-// reducers.js
 import { combineReducers } from 'redux';
 import {
   INCREMENT_ITEM,
